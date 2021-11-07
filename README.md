@@ -1,1 +1,4 @@
 # typescript-practice
+
+control + `
+tsc
