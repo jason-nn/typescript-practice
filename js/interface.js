@@ -1,5 +1,5 @@
 const user = {
-    name: "Hayes",
+    name: 'Hayes',
     id: 0,
 };
 // For the most part, you can choose based on personal preference, and TypeScript will tell you if

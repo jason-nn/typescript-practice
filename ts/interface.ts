@@ -4,7 +4,7 @@ interface User {
 }
 
 const user: User = {
-    name: "Hayes",
+    name: 'Hayes',
     id: 0,
 };
 
